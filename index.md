@@ -18,7 +18,20 @@ Presentation source/download available at [github.com/tbaschak/moles-whos-listen
 # 00 00 00 00
 
 *	"Due to recent revelations..." / NSA / Global Surveillance / etc
-*	Wanted to talk about your traffic, on the wire
+*	Will be talking tonight about:
+	*	Your traffic, on the wire
+	*	Authentication AND encryption
+
+# 00 00 00 01
+
+*	Expectations of blanket respect of privacy are no longer reasonable in 2014
+*	Many previously "theoretical" privileged access attacks now widespread
+	*	MITM attacks very real
+	*	
+
+# 00 00 00 10
+
+*	
 
 # Questions / End
 
