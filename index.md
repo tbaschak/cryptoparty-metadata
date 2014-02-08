@@ -32,6 +32,37 @@ Presentation source/download available at [github.com/tbaschak/cryptoparty-metad
 
 # 00 00 00 10
 
+*	Metadata
+	*	More sources closer to users gives better information
+	*	Traditionally 5-tupple
+		*	ip_proto, src_ip, src_port, dst_ip, dst_port
+		*	along with timestamp
+		*	can be combined with DNS/Geo/BGP information
+		*	Provides information for troubleshooting and network planning
+	*	Detail Time Limited
+	*	Usage Graphs
+
+# 00 00 00 11
+
+*	So What Can Your ISP See?
+*	Last CryptoParty Traffic - All SSL Ports, that was all
+*	Is this a concern?
+
+# 00 00 01 00
+
+*	Routing Attacks
+	*	Accidental
+	*	On Purpose
+*	Implications of routing diversions
+	*	Plaintext can be considered compromised
+*	LinkedIn 'Intro' Email Proxying (2013-10-23 - 2014-03-07)
+
+# 00 00 01 01
+
+*	
+
+# 00 00 01 11
+
 *	
 
 # Questions / End
@@ -40,4 +71,4 @@ Presentation source/download available at [github.com/tbaschak/cryptoparty-metad
 
 . . .
 
-*	Presentation source/download available at [github](https://github.com/tbaschak/moles-whos-listening)
+*	Presentation source/download available at [github.com/tbaschak/cryptoparty-metadata](https://github.com/tbaschak/cryptoparty-metadata)
