@@ -26,6 +26,7 @@ Presentation source/download available at [github.com/tbaschak/cryptoparty-metad
 # 00 00 00 01
 
 *	Expectations of privacy are no longer reasonable in 2014
+	*	DO NOT TRUST PLAINTEXT, be wary of weak crypto
 *	Many previously "only theoretical" privileged access attacks now widespread
 	*	MITM attacks very real
 	*	And profitable too
