@@ -1,11 +1,11 @@
-% Moles: Who's Listening?
+% Metadata
 % Theo Baschak
 % CryptoParty
 
 
 # Online HTML5 Slides
 
-Presentation source/download available at [github.com/tbaschak/moles-whos-listening](https://github.com/tbaschak/moles-whos-listening)
+Presentation source/download available at [github.com/tbaschak/cryptoparty-metadata](https://github.com/tbaschak/cryptoparty-metadata)
 
 # Who I Am
 
@@ -19,15 +19,16 @@ Presentation source/download available at [github.com/tbaschak/moles-whos-listen
 
 *	"Due to recent revelations..." / NSA / Global Surveillance / etc
 *	Will be talking tonight about:
+	*	Metadata
 	*	Your traffic, on the wire
-	*	Authentication AND encryption
+	*	Authentication AND Encryption
 
 # 00 00 00 01
 
-*	Expectations of blanket respect of privacy are no longer reasonable in 2014
-*	Many previously "theoretical" privileged access attacks now widespread
+*	Expectations of privacy are no longer reasonable in 2014
+*	Many previously "only theoretical" privileged access attacks now widespread
 	*	MITM attacks very real
-	*	
+	*	And profitable too
 
 # 00 00 00 10
 
