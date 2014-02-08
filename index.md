@@ -21,7 +21,7 @@ Presentation source/download available at [github.com/tbaschak/cryptoparty-metad
 *	Will be talking tonight about:
 	*	Metadata
 	*	Your traffic, on the wire
-	*	Authentication AND Encryption
+	*	Encrypting your data in transit
 
 # 00 00 00 01
 
@@ -60,7 +60,9 @@ Presentation source/download available at [github.com/tbaschak/cryptoparty-metad
 
 # 00 00 01 01
 
-*	
+*	Encryption
+	*	Always if you want your data to be private
+	*	When configuring SSL, check the ciphers, there are valid options which are silly
 
 # 00 00 01 11
 
