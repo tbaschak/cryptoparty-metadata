@@ -32,12 +32,12 @@ cleanslides:
 gh-pages: slides pdf
 	@git add $(PDFOBJS) $(SLIDEOBJS)
 	@git commit -m 'generate latest slides via Makefile'
-	@git push -u origin master
+	@git push -u github master
 	@git checkout gh-pages
 	@git checkout master -- $(SLIDEOBJS)
 	@git checkout master -- $(PDFOBJS)
 	@git add $(PDFOBJS) $(SLIDEOBJS)
 	@git commit -m 'pull in latest generated slides from master branch'
-	@git push -u origin gh-pages
+	@git push -u github gh-pages
 	@git checkout master
 	@echo Slides generated and pushed to gh-pages branch
